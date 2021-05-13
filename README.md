@@ -4,7 +4,7 @@
   <h3 style="align-items: left;">Languages and Tools:</h3>
   <h5 style="align-items: left;">Development Environment</h5>
   <div style="align-items: left;">
-    <a style="width: 900px;" href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=/> </a>
+    <a style="width: 90px;" href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=/> </a>
   </div>
   <h4 style="align-items: left;">Programming Languages</h4>
   <div style="align-items: left;">
