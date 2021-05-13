@@ -20,3 +20,6 @@
   <!--
    <h3 style="align-items: left;">Statistics:</h3>  -->
 
+[![snjssk's github stats](https://github-readme-stats.vercel.app/api?username=lion-rion&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lion-rion&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
