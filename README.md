@@ -19,5 +19,4 @@
   </div>
   <!--
    <h3 style="align-items: left;">Statistics:</h3>  -->
-  
-![lion-rion's github stats](https://github-readme-stats.vercel.app/api?username=nishipy&hide=issues)
+
