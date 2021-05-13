@@ -17,9 +17,9 @@
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt=width="70" height="70"></a>
 
   </div>
-  <!--
-   <h3 style="align-items: left;">Statistics:</h3>  -->
 
-[![snjssk's github stats](https://github-readme-stats.vercel.app/api?username=lion-rion&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+   <h3 style="align-items: left;">Statistics:</h3> 
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lion-rion)](https://github.com/anuraghazra/github-readme-stats)
