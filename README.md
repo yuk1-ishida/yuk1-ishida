@@ -13,7 +13,7 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
 
   </div>
-  <h4 style="align-items: left;">HyperText Markup Language</h4>
+  <h4 style="align-items: left;">Markup Language</h4>
   <div style="align-items: left;">
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
