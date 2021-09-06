@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Lion</h1>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lion-rion)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
   <h3 style="align-items: left;">Languages and Tools:</h3>
   <h5 style="align-items: left;">Development Environment</h5>
   <div style="align-items: left;">
