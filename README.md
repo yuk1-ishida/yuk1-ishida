@@ -11,6 +11,7 @@
   <div style="align-items: left;">
     <a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt=width="60" height="60"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
+  <a href="https://docs.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt=width="60" height="60"/> </a>
 
   </div>
   <h4 style="align-items: left;">Markup Language</h4>
