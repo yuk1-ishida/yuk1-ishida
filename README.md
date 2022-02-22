@@ -9,7 +9,7 @@
   </div>
   <h4 style="align-items: left;">Programming Languages</h4>
   <div style="align-items: left;">
-  <a href="https://www.php.net/" target="_blank"> <img src="img/php.png" alt=width="70" height="70"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="img/353261.png" alt=width="60" height="60"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt=width="60" height="60"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
   <a href="https://docs.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt=width="60" height="60"/> </a>
@@ -19,6 +19,7 @@
   <div style="align-items: left;">
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
+    <a href="https://laravel.com/" target="_blank"> <img src="img/laravel.svg" alt=width="60" height="60"/> </a>
 
   </div>
 
