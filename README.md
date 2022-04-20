@@ -17,7 +17,7 @@
   </div>
   <h4 style="align-items: left;">DataBase</h4>
   <div style="align-items: left;">
-    <a href="https://dev.mysql.com/" target="_blank"><img src="https://dev.mysql.com/"  alt=width="70" height="70"></a>
+    <a href="https://dev.mysql.com/" target="_blank"><img src="img/mysql.svg"  alt=width="70" height="70"></a>
   </div>
   <h4 style="align-items: left;">Markup Language & FrameWork</h4>
   <div style="align-items: left;">
