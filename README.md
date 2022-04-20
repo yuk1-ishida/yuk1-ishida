@@ -15,6 +15,10 @@
   <a href="https://docs.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt=width="60" height="60"/> </a>
 
   </div>
+  <h4 style="align-items: left;">DataBase</h4>
+  <div style="align-items: left;">
+    <a href="https://dev.mysql.com/" target="_blank"><img src="https://dev.mysql.com/"  alt=width="70" height="70"></a>
+  </div>
   <h4 style="align-items: left;">Markup Language & FrameWork</h4>
   <div style="align-items: left;">
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
