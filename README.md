@@ -6,6 +6,7 @@
   <h5 style="align-items: center;">Development Environment</h5>
   <div style="align-items: center;">
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="img/docker-original-wordmark.svg" alt=width="60" height="60"/> </a>
   </div>
   <h4 style="align-items: left;">Programming Languages</h4>
   <div style="align-items: left;">
