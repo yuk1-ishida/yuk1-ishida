@@ -28,7 +28,7 @@
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
     <a href="https://laravel.com/" target="_blank"> <img src="img/laravel.svg" alt=width="60" height="60"/> </a>
-  <a href="https://wordpress.com/ja/" target="_blank"><img src="img/WordPress-logotype-wmark.png" alt=width="70" height="70"/> </a>
+  <a href="https://wordpress.com/ja/" target="_blank"><img src="img/WordPress-logotype-wmark.png" alt=width="90" height="90"/> </a>
   
 
   </div>
