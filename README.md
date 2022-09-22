@@ -7,6 +7,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="img/docker-original-wordmark.svg" alt=width="60" height="60"/> </a>
   <a href="https://en.wikipedia.org/wiki/Tux_(mascot)" target="_blank"> <img src="img/linux-tux.svg" alt=width="60" height="60"/> </a>
+  <a href="https://www.vim.org/)" target="_blank"> <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/09/vim-e1537247611733.png" alt=width="60" height="60"/> </a>
   
   </div>
   <h4 style="align-items: left;">Programming Languages</h4>
