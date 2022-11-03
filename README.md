@@ -8,13 +8,14 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="img/docker-original-wordmark.svg" alt=width="60" height="60"/> </a>
   <a href="https://en.wikipedia.org/wiki/Tux_(mascot)" target="_blank"> <img src="img/linux-tux.svg" alt=width="60" height="60"/> </a>
   <a href="https://www.vim.org/)" target="_blank"> <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/09/vim-e1537247611733.png" alt=width="60" height="60"/> </a>
-  
+
   </div>
   <h4 style="align-items: left;">Programming Languages</h4>
   <div style="align-items: left;">
   <a href="https://www.php.net/" target="_blank"> <img src="img/353261.png" alt=width="60" height="60"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="img/python.svg" alt=width="60" height="60"/> </a>
   <a href="https://docs.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt=width="60" height="60"/> </a>
+  <a href="https://go.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/199652426-019015d5-ff7d-440a-abf8-36271a7eb599.svg" alt=width="60" height="60"/> </a>
 
   </div>
   <h4 style="align-items: left;">DataBase</h4>
