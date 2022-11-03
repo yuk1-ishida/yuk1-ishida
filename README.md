@@ -20,9 +20,11 @@
   </div>
   <h4 style="align-items: left;">DataBase</h4>
   <div style="align-items: left;">
+  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/199652568-6709605c-363d-4b61-849a-12f5620fb5ac.svg" alt=width="60" height="60"/> </a>
     <a href="https://dev.mysql.com/" target="_blank"><img src="img/mysql.svg"  alt=width="60" height="60"></a>
   <a href="https://mariadb.org/" target="_blank"> <img src="img/mariadb.svg" alt=width="60" height="60"/> </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/199652568-6709605c-363d-4b61-849a-12f5620fb5ac.svg" alt=width="60" height="60"/> </a>
+  </div>
+  
 
   </div>
   <h4 style="align-items: left;">Markup Language & FrameWork</h4>
