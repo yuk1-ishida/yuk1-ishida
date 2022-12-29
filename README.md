@@ -20,11 +20,9 @@
   </div>
   <h4 style="align-items: left;">DataBase</h4>
   <div style="align-items: left;">
-  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/199652568-6709605c-363d-4b61-849a-12f5620fb5ac.svg" alt=width="60" height="60"/> </a>
-    <a href="https://dev.mysql.com/" target="_blank"><img src="img/mysql.svg"  alt=width="60" height="60"></a>
-  <a href="https://mariadb.org/" target="_blank"> <img src="img/mariadb.svg" alt=width="60" height="60"/> </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209907293-5d91c4bd-0667-432f-8fe5-d56fbd7e8012.png" alt=width="60" height="60"/> </a>
+    <a href="https://dev.mysql.com/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/209907119-f74d0edd-2acc-48f1-81ce-92cfbd316c82.png"  alt=width="60" height="60"></a>
   </div>
-  
 
   </div>
   <h4 style="align-items: left;">Markup Language & FrameWork</h4>
@@ -32,7 +30,7 @@
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
     <a href="https://laravel.com/" target="_blank"> <img src="img/laravel.svg" alt=width="60" height="60"/> </a>
-  <!--<a href="https://wordpress.com/ja/" target="_blank"><img src="img/WordPress-logotype-wmark.png" alt=width="80" height="80"/> </a>-->
+   <a href="https://wordpress.com/ja/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/209907375-d4a24e17-9389-47bd-98b9-d5f83316a383.png" alt=width="60" height="60"/> </a>
   
 
   </div>
