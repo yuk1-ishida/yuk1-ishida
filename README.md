@@ -40,8 +40,11 @@
 
   </div>
 
-   <h3 style="align-items: left;">Statistics:</h3> 
+   <h3 style="align-items: left;">Portfolio:</h3> 
 
 
+| Name | URL | About | 
+| ---- | ---- | ---- |
+|  RAC-TESTER  |  https://github.com/lion-rion/rac-tester  | ロボカップSSLのロボットをテストするためのツールです|
+|  Notion_x_Blog  |  Repo https://github.com/lion-rion/Notion_x_Blog : Site https://lion-rion.github.io/Notion_x_Blog/ | Notionを使ったブログです| 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lion-rion)](https://github.com/anuraghazra/github-readme-stats)
