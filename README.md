@@ -4,9 +4,9 @@
   <h3 style="align-items: center;">Languages and Tools:</h3>
   <h5 style="align-items: center;">Development Environment</h5>
   <div style="align-items: center;">
-  <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209908960-4f9291e7-69c2-4313-9405-52387ceb9f9a.svg" alt=width="60" height="60"/> </a>
-  <a href="https://github.com/features/actions" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209908880-efb9a544-133c-4033-ba54-7087b8ccd6d8.svg" alt=width="60" height="60"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209908960-4f9291e7-69c2-4313-9405-52387ceb9f9a.svg" alt=width="57" height="57"/> </a>
+  <a href="https://github.com/features/actions" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209908880-efb9a544-133c-4033-ba54-7087b8ccd6d8.svg" alt=width="57" height="57"/> </a>
+   <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="img/docker-original-wordmark.svg" alt=width="60" height="60"/> </a>
   <a href="https://en.wikipedia.org/wiki/Tux_(mascot)" target="_blank"> <img src="img/linux-tux.svg" alt=width="60" height="60"/> </a>
   <a href="https://www.vim.org/)" target="_blank"> <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/09/vim-e1537247611733.png" alt=width="60" height="60"/> </a>
