@@ -10,7 +10,7 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="img/docker-original-wordmark.svg" alt=width="60" height="60"/> </a>
   <a href="https://en.wikipedia.org/wiki/Tux_(mascot)" target="_blank"> <img src="img/linux-tux.svg" alt=width="60" height="60"/> </a>
   <a href="https://www.vim.org/" target="_blank"> <img src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/09/vim-e1537247611733.png" alt=width="60" height="60"/> </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/218307725-18e28fb2-70a0-4e1a-b62b-8333815a9e6f.svg" alt=width="60" height="60"/> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/218307788-672c4482-4799-49e4-9713-0c95096424aa.png" alt=width="60" height="60"/> </a>
   
 
 
