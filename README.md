@@ -38,6 +38,9 @@
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
     <a href="https://laravel.com/" target="_blank"> <img src="img/laravel.svg" alt=width="60" height="60"/> </a>
    <a href="https://wordpress.com/ja/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/209907375-d4a24e17-9389-47bd-98b9-d5f83316a383.png" alt=width="60" height="60"/> </a>
+   <a href="https://ja.legacy.reactjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/4c829e76-567b-42ad-8ba9-5a09c3fed4a6" alt=width="60" height="60"/> </a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/1147cd2a-34b8-4ea8-89e8-db06fde7e700" alt=width="60" height="60"/> </a>
+  
 
  <h4 style="align-items: left;">Tool</h4>
   <a href="https://www.zaproxy.org/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/210008597-89467c2b-5f69-4955-ad8f-f8d1f21101f4.png" width="60" height="60"></a>  
