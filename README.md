@@ -54,7 +54,6 @@
 |  Notion_x_Blog  |  Repo https://github.com/lion-rion/Notion_x_Blog : Site https://lion-rion.github.io/Notion_x_Blog/ | Notionを使ったブログです| 
 | Laravel_Blog | https://github.com/lion-rion/laravel_blog | Laravelを用いたブログです CRUD実装を理解するために作りました |
 | c_study | https://github.com/lion-rion/c_study | c言語でshellやサーバーの勉強をしているものです | 
-| study-cmd | https://github.com/lion-rion/study-cmd | 勉強時間を計測するコマンドをGoで作成しましたが実用性は皆無です | 
 | MASUO-Ai | https://github.com/lion-rion/MASUO-Ai | SSLロボットを動かすためのプログラムの初期プロトタイプです |
 | docker-controller | https://github.com/lion-rion/docker-controller.git | dockerの状態をWeb上で確認 | 
 | todo_go | https://github.com/lion-rion/todo_go | [Udemyの講座](https://www.udemy.com/course/golang-webgosql/)で作った百番煎じTODOアプリです |
