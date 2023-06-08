@@ -32,14 +32,14 @@
   </div>
 
   </div>
-  <h4 style="align-items: left;">Markup Language & FrameWork</h4>
+  <h4 style="align-items: left;">Markup Language & FrameWork & Library</h4>
   <div style="align-items: left;">
     <a href="https://html.spec.whatwg.org/#toc-introduction" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
     <a href="https://laravel.com/" target="_blank"> <img src="img/laravel.svg" alt=width="60" height="60"/> </a>
    <a href="https://wordpress.com/ja/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/209907375-d4a24e17-9389-47bd-98b9-d5f83316a383.png" alt=width="60" height="60"/> </a>
-   <a href="https://ja.legacy.reactjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/4c829e76-567b-42ad-8ba9-5a09c3fed4a6" alt=width="60" height="60"/> </a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/1147cd2a-34b8-4ea8-89e8-db06fde7e700" alt=width="60" height="60"/> </a>
+   <a href="https://ja.legacy.reactjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/1147cd2a-34b8-4ea8-89e8-db06fde7e700" alt=width="60" height="60"/> </a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/lion-rion/lion-rion/assets/79553411/4c829e76-567b-42ad-8ba9-5a09c3fed4a6" alt=width="60" height="60"/> </a>
   
 
  <h4 style="align-items: left;">Tool</h4>
