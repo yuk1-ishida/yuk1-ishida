@@ -45,6 +45,9 @@
  <h4 style="align-items: left;">Tool</h4>
   <a href="https://www.zaproxy.org/" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/210008597-89467c2b-5f69-4955-ad8f-f8d1f21101f4.png" width="60" height="60"></a>  
   <a href="https://portswigger.net/burp" target="_blank"><img src="https://user-images.githubusercontent.com/79553411/210008743-d4cb6583-07cf-48d3-a69f-ead0f177ab8e.png" width="60" height="60"></a>
+
+
+  <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lion-rion&count_private=true&show_icons=true&theme=tokyonight" />
   
   </div>
    <h3 style="align-items: left;">Portfolio:</h3> 
