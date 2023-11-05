@@ -23,6 +23,7 @@
   <a href="https://docs.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt=width="60" height="60"/> </a>
   <a href="https://go.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/199652426-019015d5-ff7d-440a-abf8-36271a7eb599.svg" alt=width="60" height="60"/> </a>
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/79553411/209907983-e7cc233b-48de-435d-99be-32a47addfbb1.svg" alt=width="50" height="60"/> </a>
+   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt=width="50" height="60"/> </a>
 
   </div>
   <h4 style="align-items: left;">DataBase</h4>
